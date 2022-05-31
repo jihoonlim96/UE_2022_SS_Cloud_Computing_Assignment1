@@ -31,3 +31,9 @@
 
 # run terraform
   # chekck S3 running on AWS console (web)
+
+# finally, relocate the S3 bucket from local machine to remote
+  # define 'backend "s3"'
+  # check bucket name & region sync (web - VSCode)
+
+# well done!
